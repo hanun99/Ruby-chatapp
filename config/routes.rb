@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   #ActiveAdmin.routes(self)
 
   devise_for :users
-  get 'users/index'
+  get 'welcome/index'
   resources :room_messages
   resources :rooms
  # devise_for :users
