@@ -1,0 +1,18 @@
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/macbookpro/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-psjsa2 sitelibdir\=./.gem.20240613-12189-psjsa2 clean
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-psjsa2 sitelibdir\=./.gem.20240613-12189-psjsa2
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-psjsa2 sitelibdir\=./.gem.20240613-12189-psjsa2 install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20240613-12189-psjsa2/skiptrace/internal
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-psjsa2 sitelibdir\=./.gem.20240613-12189-psjsa2 clean

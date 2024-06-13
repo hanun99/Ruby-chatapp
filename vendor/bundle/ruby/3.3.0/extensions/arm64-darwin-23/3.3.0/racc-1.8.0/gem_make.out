@@ -1,0 +1,18 @@
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/Users/macbookpro/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4pm75w sitelibdir\=./.gem.20240613-12189-4pm75w clean
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4pm75w sitelibdir\=./.gem.20240613-12189-4pm75w
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4pm75w sitelibdir\=./.gem.20240613-12189-4pm75w install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240613-12189-4pm75w/racc
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4pm75w sitelibdir\=./.gem.20240613-12189-4pm75w clean

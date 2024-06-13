@@ -1,0 +1,19 @@
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/Users/macbookpro/.asdf/installs/ruby/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4ho78s sitelibdir\=./.gem.20240613-12189-4ho78s clean
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4ho78s sitelibdir\=./.gem.20240613-12189-4ho78s
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4ho78s sitelibdir\=./.gem.20240613-12189-4ho78s install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240613-12189-4ho78s/debug
+
+current directory: /Users/macbookpro/chattapp/chatappgit/Chatapp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240613-12189-4ho78s sitelibdir\=./.gem.20240613-12189-4ho78s clean

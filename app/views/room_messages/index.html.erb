@@ -1,0 +1,10 @@
+<h1>Room Messages</h1>
+
+<ul>
+  <% @room_messages.each do |message| %>
+    <li>
+      <%= message.content %>
+      <%= message.created_at %>
+    </li>
+  <% end %>
+</ul>
