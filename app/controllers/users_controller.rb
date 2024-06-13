@@ -14,15 +14,9 @@ class UsersController < ApplicationController
   end
 
   def show
-    if params[:id] == 'sign_out'
-      # Handle sign out logic here
-      # For example, you could redirect to the sign in page
-      redirect_to new_user_session_path, notice: 'You have been signed out.'
-    else
-      # Find user by ID from params
+    def show
       @user = User.find(params[:id])
-      render 'index'
-    end
+    end  
 end
 
   

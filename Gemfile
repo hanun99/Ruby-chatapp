@@ -3,12 +3,11 @@ source "https://rubygems.org"
 
 ruby "3.3.1"
 
-gem 'simple_form'
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.4"
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
-gem 'simple_form'
+gem 'simple_form', '~> 5.2'
 gem 'turbolinks'
 gem 'redis', '~> 4.2'
 gem 'redis-rails', '~> 5.0' 
